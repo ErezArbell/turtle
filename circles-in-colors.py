@@ -1,3 +1,5 @@
+# Circles in colors
+
 import turtle
 
 colors = ["red", "blue", "purple", "orange", "yellow", "green"]
